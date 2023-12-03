@@ -4,7 +4,7 @@
 
 ![My etiqueta](https://img.shields.io/badge/David%20Maza-DiveCode%F0%9F%90%99-blue) ![UD](https://img.shields.io/badge/TA-35-orange)  ![Java Version](https://img.shields.io/badge/TypeScript-blue)
 
-# TA34 – TypeScript 🏋️
+# TA35 – TypeScript 🏋️
                              
 This repository contains the Bootcamp tasks 👨‍💻
 
